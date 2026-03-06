@@ -31,24 +31,6 @@ This project was created as a **front-end practice project** to improve layout d
 * **Font Awesome Icons**
 
 ---
-
-## Project Structure
-
-```
-Aloe-World
-│
-├── Index.html
-├── Style.css
-├── Images
-│   ├── Aloe.png
-│   ├── Clitoria.png
-│   ├── Rose.png
-│   ├── Saffron.png
-│   └── Icon.png
-```
-
----
-
 ## Sections of the Website
 
 1. **Navigation Bar**
